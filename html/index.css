@@ -925,7 +925,8 @@ img {
     width: 80%;
     overflow: auto;
     height:100%;
-    margin: auto;
+    margin-right:auto;
+    margin-left:auto;
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0.6);
     box-shadow: rgba(255, 255, 255, 0.5);
@@ -940,10 +941,11 @@ p {
   
 .fullBoxBold{
     text-align: center;
+    
     font-size: 4vw;
+
     width: 100%;
     height: auto;
-    text-align: center;
     font-weight: bold;
 }
 

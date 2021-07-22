@@ -31,10 +31,6 @@
                 <!-- style="font-size: 16px;"> -->
                 What We Handle
             </p>
-            <p class="col column-1">
-                <!-- style="font-size: 16px;"> -->
-                Where We Operate
-            </p>
             <p class="col column-2" style="text-align:center;">
                 <!-- style="padding-bottom: 32px; margin: 0 auto;"> -->
                 Trip Hazards <br>
@@ -53,7 +49,10 @@
             <p class="col column-2">PARAGRAPH 1</p> -->
         </div>
         <div class="row">
-            
+                        <p class="col column-1">
+                <!-- style="font-size: 16px;"> -->
+                Where We Operate
+            </p>
             <p class="col column-2" style="text-align:center;">
                 <!-- style="padding-bottom: 32px; margin: 0 auto;"> -->
                 Edmonton <br>
