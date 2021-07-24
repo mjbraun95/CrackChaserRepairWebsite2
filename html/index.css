@@ -930,6 +930,8 @@ img {
     justify-content: center; */
     
     /* padding: 100px; */
+    padding-top: 2vh;
+    padding-bottom: 4vh;
     max-width: 80%;
     width: 80%;
     overflow: auto;
@@ -943,6 +945,8 @@ img {
 
 p {
     /* padding: 10px; */
+    padding-top: 2vh;
+    padding-bottom: 2vh;
     width: 95%;
     align-content: center;
     margin: auto;
