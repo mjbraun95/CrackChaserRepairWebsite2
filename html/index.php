@@ -21,13 +21,13 @@
                 Looking for a durable solution for your damaged pavement, flooring, and concrete structures at a reasonable price? Look no further. 
                 </p>
                 <p class="fullBox">
-                Crack Chaser Repair Solutions is an Edmonton based repair & restoration company, proudly serving Canada's west coast for the last 20 years with cost-efficient solutions to their asphalt, concrete, and epoxy floor needs. 
+                Crack Chaser Repair Solutions is an Edmonton based repair & restoration company, proudly serving Alberta. We bring over 20 years of experience with cost-efficient solutions to your asphalt, concrete, and epoxy floor needs. 
                 </p>
                 <p class="fullBox">
                 We work on industrial, residential, and commercial properties. 
                 </p>
                 <p class="fullBox">
-                Our team of experts utilize modern methods and cutting-edge technologies to ensure you get long-lasting repairs, at a fraction of the cost of competitors. 
+                Our team utilizes modern methods and cutting-edge technologies to ensure you get long-lasting, quality repairs. 
                 </p>
             </div>
         </div>

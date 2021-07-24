@@ -19,7 +19,7 @@
     
     <p class="fullBox" style="margin: 0 auto;">
     We repair any cracked, damaged, or old floors, for residential, commercial, and industrial properties, both indoor and outdoor. 
-    We pave asphalt, pour concrete, and do epoxy coatings for new floors as well.
+    We restore, repair, and refinish concrete, as well as asphalt.
     <!-- We pave, pour, and coat new floors, both indoor and outdoor, for:
         Residential Properties
         Commercial Properties
@@ -40,21 +40,19 @@
                 Ramps <br>
                 Stairs <br>
                 Foundations <br>
-                Warehouse Floors <br>
+                Epoxy Coatings <br> 
+                <!-- Warehouse Floors <br> -->
                 Parking Lots  <br>
                 Parkades <br>
+                Old Concrete Floors <br>
                 Bollard Installation and Removal <br>
             </p>
-            <!-- <p class="col column-1">What We Handle:</p>
-            <p class="col column-2">PARAGRAPH 1</p> -->
         </div>
         <div class="row">
-            <p class="fullBoxBold" style="padding-bottom:0.5vh;">
-                <!-- style="font-size: 16px;"> -->
+            <!-- <p class="fullBoxBold" style="padding-bottom:0.5vh;">
                 Where We Operate
             </p>
             <p class="fullBox" style="text-align:center; padding-top:0.5vh;">
-                <!-- style="padding-bottom: 32px; margin: 0 auto;"> -->
                 Edmonton <br>
                 Sherwood Park <br>
                 St. Albert <br>
@@ -62,9 +60,7 @@
                 Red Deer <br>
                 Spruce Grove <br>
                 Calgary <br>
-            </p>
-            <!-- <p class="col column-1">PARAGRAPH 2</p>
-            <p class="col column-2">PARAGRAPH 2</p> -->
+            </p> -->
     </div>
 </div>
     <!-- <p class="fullBoxBold" style="font-size: 16px;">
