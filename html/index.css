@@ -90,6 +90,12 @@ div#navbar a.active {
     color: black;
 }
 
+#centeredmenu {
+    clear:both;
+    min-width: 220px;
+    margin: auto;
+ }
+
 #SLIDE_BG {
     width: 100%;
     height: auto;
@@ -920,7 +926,10 @@ img {
 
 /* page content */
 .content {
-    padding: 100px;
+    /* display:flex;
+    justify-content: center; */
+    
+    /* padding: 100px; */
     max-width: 80%;
     width: 80%;
     overflow: auto;
@@ -933,7 +942,7 @@ img {
 }
 
 p {
-    padding: 10px;
+    /* padding: 10px; */
     width: 95%;
     align-content: center;
     margin: auto;
@@ -1048,18 +1057,18 @@ p {
 #container .row .col.column-1 {
     text-align: center;
     font-size: 4vw;
-    /* width: 40%; */
+    width: 40%;
     height: auto;
-    float: left;
+    /* float: left; */
     font-weight: bold;
     /* float:inline-start; */
 }
 /* Equivalent of #column-2 */
 #container .row .col.column-2 {
-    /* width:40%; */
+    width:40%;
     font-size: 2vw;
     height:auto;
-    float: left;
+    /* float: left; */
     text-align: left;
     /* float:inline-start; */
     /* float:left; */
