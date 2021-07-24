@@ -16,10 +16,10 @@
 
 <div class="content">
     
-    <p class="fullBox" style="padding-bottom: 20px; margin: 0 auto;">
+    <p class="fullBox" style="margin: 0 auto;">
     Crack Chaser is an Edmonton based team providing service throughout Alberta. We work with industrial, residential and commercial applications.
     </p>
-    <p class="fullBox" style="padding-bottom: 20px; margin: 0 auto;">
+    <p class="fullBox" style="margin: 0 auto;">
     When the company was founded, we noticed that it was difficult to find quality fixes for a low cost. Most repair work fell apart, did not last, or did not stand up to the weather. 
 
     Throughout our years of experience doing repair & restoration work, Crack Chaser has constantly explored the latest innovations within the industry while other companies refuse to evolve with the 21st century.

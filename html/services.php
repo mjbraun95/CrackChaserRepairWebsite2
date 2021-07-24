@@ -17,7 +17,7 @@
 
 <div class="content">
     
-    <p class="fullBox" style="padding-bottom: 20px; margin: 0 auto;">
+    <p class="fullBox" style="margin: 0 auto;">
     We repair any cracked, damaged, or old floors, for residential, commercial, and industrial properties, both indoor and outdoor. 
     We pave asphalt, pour concrete, and do epoxy coatings for new floors as well.
     <!-- We pave, pour, and coat new floors, both indoor and outdoor, for:
@@ -27,11 +27,11 @@
     <!-- </p> -->
     <div id="container">
         <div class="row">
-            <p class="col column-1" >
+            <p class="fullBoxBold" style="padding-bottom:0.5vh;">
                 <!-- style="font-size: 16px;"> -->
                 What We Handle
             </p>
-            <p class="col column-2" style="text-align:center;">
+            <p class="fullBox" style="text-align:center; padding-top:0.5vh;">
                 <!-- style="padding-bottom: 32px; margin: 0 auto;"> -->
                 Trip Hazards <br>
                 Curbs <br>
@@ -49,11 +49,11 @@
             <p class="col column-2">PARAGRAPH 1</p> -->
         </div>
         <div class="row">
-                        <p class="col column-1">
+            <p class="fullBoxBold" style="padding-bottom:0.5vh;">
                 <!-- style="font-size: 16px;"> -->
                 Where We Operate
             </p>
-            <p class="col column-2" style="text-align:center;">
+            <p class="fullBox" style="text-align:center; padding-top:0.5vh;">
                 <!-- style="padding-bottom: 32px; margin: 0 auto;"> -->
                 Edmonton <br>
                 Sherwood Park <br>
