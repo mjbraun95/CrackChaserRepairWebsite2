@@ -106,27 +106,27 @@ div#navbar a.active {
     backface-visibility: hidden;
     animation: slideBg 18s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url('./images/Backgrounds/Slideshow/Epoxy2.JPG');
+    background-image: url('./images/Backgrounds/Slideshow/Epoxy2.jpg');
 
 }
 @keyframes slideBg {
     0% {
-        background-image: url('./images/Backgrounds/Slideshow/Epoxy2.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Epoxy2.jpg');
     }
     20% {
-        background-image: url('./images/Backgrounds/Slideshow/Concrete2.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Concrete2.jpg');
     }
     40% {
-        background-image: url('./images/Backgrounds/Slideshow/Epoxy1.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Epoxy1.jpg');
     }
     60% {
-        background-image: url('./images/Backgrounds/Slideshow/Concrete3.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Concrete3.jpg');
     }
     80% {
-        background-image: url('./images/Backgrounds/Slideshow/Epoxy3.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Epoxy3.jpg');
     }
     100% {
-        background-image: url('./images/Backgrounds/Slideshow/Epoxy2.JPG');
+        background-image: url('./images/Backgrounds/Slideshow/Epoxy2.jpg');
     }
 }
 
