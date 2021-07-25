@@ -106,7 +106,7 @@ div#navbar a.active {
     backface-visibility: hidden;
     animation: slideBg 18s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url('./images/Epoxy\ Cambridge\ After/2.JPG');
+    background-image: url('./images/Backgrounds/Slideshow/Epoxy2.JPG');
 
 }
 @keyframes slideBg {
