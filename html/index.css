@@ -10,7 +10,7 @@ body {
 }
 
 div.header{
-    background-image: url(./images/Backgrounds/asphalt2.JPG);
+    background-image: url('./images/Backgrounds/asphalt2.JPG');
     /* background-clip: content-box; */
     /* box-sizing: content-box; */
     /* isolation: isolate; */
