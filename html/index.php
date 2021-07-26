@@ -13,7 +13,7 @@
             }
         </style>
         
-        <img src="./images/Backgrounds/asphalt2.JPG" style="height:80vh; width:auto;">
+        <img src="./images/Backgrounds/asphalt2.jpg" style="height:80vh; width:auto;">
         
         <div id="SLIDE_BG">
             <div class="content">
