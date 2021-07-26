@@ -250,11 +250,11 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 1:</p> -->
     <div class="slideshow-container">
         <div class="mySlides1" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt1/1.JPG" style="height:80vh; width:auto;">
+            <img src="images/Slideshows/Asphalt1/1.JPG" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides1" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt1/2.JPG" style="height:80vh; width:auto;">
+            <img src="images/Slideshows/Asphalt1/2.JPG" style="height:80vh; width:auto;">
         </div>
         <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
         <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
