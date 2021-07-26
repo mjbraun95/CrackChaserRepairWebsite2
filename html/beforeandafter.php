@@ -250,11 +250,11 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 1:</p> -->
     <div class="slideshow-container">
         <div class="mySlides1" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt1/1.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Asphalt1/1.jpg" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides1" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt1/2.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Asphalt1/2.jpg" style="height:80vh; width:auto;">
         </div>
         <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
         <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
@@ -263,11 +263,11 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 2:</p> -->
     <!-- <div class="slideshow-container">
         <div class="mySlides2" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt2/1.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Asphalt2/1.jpg" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides2" style="text-align: center;">
-            <img src="./images/Slideshows/Asphalt2/2.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Asphalt2/2.jpg" style="height:80vh; width:auto;">
         </div>
 
         <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
@@ -387,11 +387,11 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 10:</p> -->
     <div class="slideshow-container">
         <div class="mySlides10">
-            <img src="./images/Slideshows/Curb1/1.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Curb1/1.jpg" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides10" style="text-align: center;">
-            <img src="./images/Slideshows/Curb1/2.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Curb1/2.jpg" style="height:80vh; width:auto;">
         </div>
 
         <a class="prev" onclick="plusSlides(-1, 9)">&#10094;</a>
@@ -415,15 +415,15 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 12:</p> -->
     <div class="slideshow-container">
         <div class="mySlides12" style="text-align: center;">
-            <img src="./images/Slideshows/Curb3/1.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Curb3/1.jpg" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides12" style="text-align: center;">
-            <img src="./images/Slideshows/Curb3/2.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Curb3/2.jpg" style="height:80vh; width:auto;">
         </div>
 
         <div class="mySlides12" style="text-align: center;">
-            <img src="./images/Slideshows/Curb3/3.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/Curb3/3.jpg" style="height:80vh; width:auto;">
         </div>
 
         <a class="prev" onclick="plusSlides(-1, 11)">&#10094;</a>
@@ -579,10 +579,10 @@ jQuery.fn.center = function() {
     <!-- <p>Slideshow 22:</p> -->
     <div class="slideshow-container">
         <div class="mySlides22" style="text-align: center;">
-            <img src="./images/Slideshows/SidewalkCrack1/1.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/SidewalkCrack1/1.jpg" style="height:80vh; width:auto;">
         </div>
         <div class="mySlides22" style="text-align: center;">
-            <img src="./images/Slideshows/SidewalkCrack1/2.JPG" style="height:80vh; width:auto;">
+            <img src="./images/Slideshows/SidewalkCrack1/2.jpg" style="height:80vh; width:auto;">
         </div>
         <a class="prev" onclick="plusSlides(-1, 21)">&#10094;</a>
         <a class="next" onclick="plusSlides(1, 21)">&#10095;</a>
